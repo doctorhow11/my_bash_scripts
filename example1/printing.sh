@@ -1,8 +1,16 @@
 #!/bin/bash
 
+echo ""
 echo "my name is $USER"
-echo "who am I?"
+
+echo ""
+echo -n "who am I? "
 whoami
-echo "the date is: "
+
+echo ""
+echo -n "the date is: "
 date
+
+echo ""
+
 
